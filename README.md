@@ -1,10 +1,10 @@
 #### A curated awesome list of lists of interview questions. Feel free to contribute
 ## Contents
-- Java (Core Java, Spring)
-- Android (Basics)
-- Data Strucures and Algorithm
+- Java (Core Java, Spring) 200+ **Questions**
+- Android (Basics + Advanced) 200+ **Questions**
+- Data Strucures and Algorithm 100+ **Questions**
 - Database
-- Protocol (Basic)
+- Protocols (Basic)
 - Network (Basic)
 - Puzzels and Tricky Questions 
 - Logical Programming Questions
